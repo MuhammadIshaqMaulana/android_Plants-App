@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PlantsApp</string>
+    <string name="signup_text"><b>Don't have an account? <u><font color="#448C47">Sign up</font></u></b></string>
+    <string name="agreement_text">By signing you agree to our Terms of use and private notice </string>
+</resources>
